@@ -25,8 +25,8 @@
 ### 📫 Connect with Me
 
 - Email: [adegoketolulope08@gmail.com](mailto:adegoketolulope08@gmail.com)  
-- Twitter: [@dev_Tolu](https://twitter.com/dev_Tolu) *(replace with your actual handle)*  
-- LinkedIn: [https://www.linkedin.com/in/tolulope-adegoke-a64b89283/](https://www.linkedin.com/in/tolulope-adegoke-a64b89283/) *(replace with your actual URL)*
+- Twitter: [@dev_Tolu](https://twitter.com/dev_Tolu)  
+- LinkedIn: [https://www.linkedin.com/in/tolulope-adegoke-a64b89283/](https://www.linkedin.com/in/tolulope-adegoke-a64b89283/)
 
 ---
 
